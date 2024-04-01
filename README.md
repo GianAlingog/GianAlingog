@@ -7,6 +7,14 @@
 - ⚡ Fun fact: I'm really into calisthenics too!
 - 📫 You may reach me on any of my social media accounts; no public email yet :(
 
+<br>
+<br>
+
+#### Useful Links 🔗:
+https://codeforces.com/profile/QuakerZ (inactive) <br>
+https://leetcode.com/GianAlingog/ (inactive) <br>
+https://gianalingog.github.io/ (outdated)
+
 
 <!--
 **GianAlingog/GianAlingog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
