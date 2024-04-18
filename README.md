@@ -1,19 +1,34 @@
-### My name is Gian Alingog 👋
+<!--
+<pre>
+  signed main() {
+    Person gianAlingog = new Person();
+    __builtin_goofball(gianAlingog);
+  }
+</pre>
+-->
 
+### My name is Gian Alingog 👋
 - 🇵🇭 I'm from Manila, Philippines, and I'm sixteen years old.
 - 🎓 I'm currently in my junior year of high school at Phillips Academy, Andover.
 - 📚 I like competitive programming, artificial intelligence, and software engineering.
-
 - ⚡ Fun fact: I'm really into calisthenics too!
 - 📫 You may reach me on any of my social media accounts; no public email yet :(
 
 <br>
+
+#### Recent Projects 🖥️:
+- <a href="https://github.com/crsche/cinder">Cinder</a>
+- <a href="https://github.com/GianAlingog/seed">Seed</a>
+
 <br>
 
 #### Useful Links 🔗:
-https://codeforces.com/profile/QuakerZ (inactive) <br>
-https://leetcode.com/GianAlingog/ (inactive) <br>
-https://gianalingog.github.io/ (outdated)
+- https://codeforces.com/profile/QuakerZ (inactive)
+- https://leetcode.com/GianAlingog/ (inactive)
+- https://gianalingog.github.io/ (outdated)
+
+<br>
+
 
 
 <!--
