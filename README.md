@@ -8,8 +8,8 @@
 -->
 
 ### My name is Gian Alingog 👋
-- 🇵🇭 I'm from Manila, Philippines, and I'm sixteen years old.
-- 🎓 I'm currently in my junior year of high school at Phillips Academy, Andover.
+- 🇵🇭 I'm from Manila, Philippines, and I'm seventeen years old.
+- 🎓 I'm currently in my senior year of high school at Phillips Academy, Andover.
 - 📚 I like competitive programming, artificial intelligence, and software engineering.
 - ⚡ Fun fact: I'm really into calisthenics too!
 - 📫 You may reach me on any of my social media accounts; no public email yet :(
@@ -18,12 +18,13 @@
 
 #### Recent Projects 🖥️:
 - <a href="https://github.com/crsche/cinder">Cinder</a>
-- <a href="https://github.com/GianAlingog/seed">Seed</a>
+- <a href="https://github.com/GianAlingog/seed">Seed</a> 🔒
+- BetterBazaar 🔒
 
 <br>
 
 #### Useful Links 🔗:
-- https://codeforces.com/profile/QuakerZ (inactive)
+- https://codeforces.com/profile/countless (somewhat active)
 - https://leetcode.com/GianAlingog/ (inactive)
 - https://gianalingog.github.io/ (outdated)
 
