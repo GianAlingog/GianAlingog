@@ -17,8 +17,9 @@
 <br>
 
 #### Recent Projects 🖥️:
-- <a href="https://github.com/crsche/cinder">Cinder</a>
+- Giovanni 🔒
 - <a href="https://github.com/GianAlingog/seed">Seed</a> 🔒
+- <a href="https://github.com/crsche/cinder">Cinder</a>
 - BetterBazaar 🔒
 
 <br>
