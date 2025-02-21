@@ -31,7 +31,7 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/GianAlingog/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+[![My CF Stats](https://raw.githubusercontent.com/GianAlingog/cf-stats/main/output/light_card.svg)](https://codeforces.com/profile/countless)
 
 
 <!--
