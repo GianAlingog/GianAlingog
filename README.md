@@ -9,7 +9,7 @@
 
 ### My name is Gian Alingog 👋
 - 🇵🇭 I'm from Manila, Philippines, and I'm seventeen years old.
-- 📚 I like competitive programming, artificial intelligence, and software engineering.
+- 📚 I like competitive programming and software engineering.
 
 <br>
 
