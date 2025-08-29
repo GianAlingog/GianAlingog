@@ -5,10 +5,10 @@
 
 ```c++
 auto attend_contest = [&](this auto &&self) -> void {
-    self();
     rating -= 150;
 
     if (rating <= 0) exit(0);
+    self();
 };
 
 attend_contest();
