@@ -38,7 +38,7 @@ Previous interests and experiences include game development and mobile app devel
 ## Contact
 For inquiries:
 
-[![Email](https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logoColor=white)](mailto:gianqalingog@gmail.com)
+[![Email](https://img.shields.io/badge/Email-gianqalingog@gmail.com-%23000000?style=for-the-badge&logoColor=white)](mailto:gianqalingog@gmail.com)
 
 For quick chats: 
 
