@@ -6,6 +6,9 @@ I've devoted much of my time to competitive programming, but now, I'm ready to e
 As for now, I'm learning Rust and studying dev tooling and network programming.
 Previous interests and experiences include game development and mobile app development.
 
+## Projects
+<sub>Coming soon! I still need to ready them for display:)</sub>
+
 ## Stack
 
 <!-- From https://simpleicons.org/ -->
