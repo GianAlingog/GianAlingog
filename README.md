@@ -7,7 +7,15 @@ As for now, I'm learning Rust and studying network programming and back-end deve
 Previous interests and experiences include game development and mobile app development.
 
 ## Projects
-<sub>Coming soon! I still need to ready them for display:)</sub>
+| Project | Description |
+| --- | --- |
+| [Forcr](https://github.com/GianAlingog/forcr) | Codeforces training tool |
+| [Compr](https://github.com/GianAlingog/compr) | File compressor|
+| Feli | Task management system |
+
+<!-- | Sider | Redis rebuilt | -->
+<!-- | Chatter | Chat server | -->
+<!-- If you see this, these are still WIP :D -->
 
 ## Stack
 
