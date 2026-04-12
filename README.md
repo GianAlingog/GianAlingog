@@ -9,8 +9,9 @@ Previous interests and experiences include game development and mobile app devel
 ## Projects
 | Project | Description |
 | --- | --- |
+| [Blog](https://gianalingog.github.io) | Personal blog |
 | [Forcr](https://github.com/GianAlingog/forcr) | Codeforces training tool |
-| [Compr](https://github.com/GianAlingog/compr) | File compressor|
+| [Compr](https://github.com/GianAlingog/compr) | File compressor |
 | Feli | Task management system |
 
 <!-- | Sider | Redis rebuilt | -->
