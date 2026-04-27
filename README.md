@@ -13,6 +13,7 @@ Previous interests and experiences include game development and mobile app devel
 | [Forcr](https://github.com/GianAlingog/forcr) | Codeforces training tool |
 | [Compr](https://github.com/GianAlingog/compr) | File compressor |
 | Feli | Task management system |
+| [IRL Noteblock](https://github.com/GianAlingog/irl-noteblock) | Replicated a Minecraft Noteblock IRL |
 
 <!-- | Sider | Redis rebuilt | -->
 <!-- | Chatter | Chat server | -->
