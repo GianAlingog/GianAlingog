@@ -14,22 +14,29 @@ I've devoted much of my time to competitive programming, but now, I'm ready to e
 | [Compr](https://github.com/GianAlingog/compr) | File compressor |
 | [IRL Noteblock](https://github.com/GianAlingog/irl-noteblock) | Replicated a Minecraft Noteblock IRL |
 
-## Stack
+
+<!-- ## Stack -->
 
 <!-- From https://simpleicons.org/ -->
 
+<!--
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
+-->
 
+<!--
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=Supabase&logoColor=white)
-<!-- ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=Firebase&logoColor=white) -->
+![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
+-->
 
+<!--
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=Vercel&logoColor=white)
+-->
 
 <!-- Goodbye Game Dev
 ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white)
@@ -38,9 +45,13 @@ I've devoted much of my time to competitive programming, but now, I'm ready to e
 ![Krita](https://img.shields.io/badge/Krita-%233BABFF?style=for-the-badge&logo=Krita&logoColor=white)
 -->
 
+<!--
 ![Debian](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=Debian&logoColor=white)
+-->
 
+<!--
 <sub>*This list is not comprehensive, but it includes most relevant items.</sub>
+-->
 
 <!-- Soon I will have this too! -->
 <!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
