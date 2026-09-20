@@ -8,7 +8,7 @@ I've devoted much of my time to competitive programming, but now, I'm ready to e
 | Project | Description |
 | --- | --- |
 | [Blog](https://gianalingog.github.io) | Personal blog |
-| [Lion](https://github.com/GianAlingog/lion) | Modern Tetris engine (with bots in progress) |
+| [Lion](https://github.com/GianAlingog/lion) | Modern Tetris engine and simple bot |
 | Feli | Task management system |
 | [Forcr](https://github.com/GianAlingog/forcr) | Codeforces training tool |
 | [Compr](https://github.com/GianAlingog/compr) | File compressor |
