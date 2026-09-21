@@ -63,4 +63,4 @@ For inquiries:
 
 For quick chats: 
 
-![Discord](https://img.shields.io/badge/Discord-stenographe-%235865F2?style=for-the-badge&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-naigtree-%235865F2?style=for-the-badge&logo=Discord&logoColor=white)
