@@ -1,8 +1,10 @@
+<!--
 # I'm Gian Alingog 👋
 
 I'm a second-year computer science major at UCSB.
 
 I've devoted much of my time to competitive programming, but now, I'm ready to explore other fields.
+-->
 
 ## Projects
 | Project | Description |
@@ -61,6 +63,8 @@ For inquiries:
 
 [![Email](https://img.shields.io/badge/Email-gianqalingog@gmail.com-%23000000?style=for-the-badge&logoColor=white)](mailto:gianqalingog@gmail.com)
 
-For quick chats: 
+For casual chats:
+
+[![Email](https://img.shields.io/badge/Email-me@naigtree.dev-%23000000?style=for-the-badge&logoColor=white)](mailto:me@naigtree.dev)
 
 ![Discord](https://img.shields.io/badge/Discord-naigtree-%235865F2?style=for-the-badge&logo=Discord&logoColor=white)
