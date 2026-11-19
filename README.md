@@ -1,70 +1,29 @@
-<!--
-# I'm Gian Alingog 👋
+# Hi, I'm Gian
 
-I'm a second-year computer science major at UCSB.
+CS student at UC Santa Barbara, expected to graduate by June 2028. I like problems where correctness and speed matter, which is how I got into competitive programming, and lately into systems and performance work.
 
-I've devoted much of my time to competitive programming, but now, I'm ready to explore other fields.
--->
+## What I'm building
 
-## Projects
-| Project | Description |
-| --- | --- |
-| [Blog](https://gianalingog.github.io) | Personal blog |
-| [Lion](https://github.com/GianAlingog/lion) | Modern Tetris engine and simple bot |
-| Feli | Task management system |
-| [Forcr](https://github.com/GianAlingog/forcr) | Codeforces training tool |
-| [Compr](https://github.com/GianAlingog/compr) | File compressor |
-| [IRL Noteblock](https://github.com/GianAlingog/irl-noteblock) | Replicated a Minecraft Noteblock IRL |
+**[Lion](https://github.com/GianAlingog/lion)**: A modern Tetris engine and bot in Rust.
+Zero-dependency engine (bitboards, SRS with kick tables, spin detection), BFS move
+generation, and a beam search over the Dellacherie feature set. Median 102 pieces per
+40-line sprint, against a theoretical optimum of 100. Versus mode in progress.
 
+**Feli** *(private)*: Internal task management for the UCSB CS department, live with
+26 faculty and staff. I build and maintain it as a research assistant under
+Prof. Maryam Majedi.
 
-<!-- ## Stack -->
+**[Compr](https://github.com/GianAlingog/compr)**: File compressor in C++. Huffman
+coding over a custom archive format.
 
-<!-- From https://simpleicons.org/ -->
+**[Forcr](https://github.com/GianAlingog/forcr)**: Codeforces training tool: practice
+tracking and rating analysis.
 
-<!--
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
--->
+**[IRL Noteblock](https://github.com/GianAlingog/irl-noteblock)**: Minecraft noteblocks,
+in real life. SB Hacks 2026.
 
-<!--
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E?style=for-the-badge&logo=Supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
--->
-
-<!--
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=Vercel&logoColor=white)
--->
-
-<!-- Goodbye Game Dev
-![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=Unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=Godot%20Engine&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E?style=for-the-badge&logo=Aseprite&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-%233BABFF?style=for-the-badge&logo=Krita&logoColor=white)
--->
-
-<!--
-![Debian](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=Debian&logoColor=white)
--->
-
-<!--
-<sub>*This list is not comprehensive, but it includes most relevant items.</sub>
--->
-
-<!-- Soon I will have this too! -->
-<!-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) -->
+**[Blog](https://gianalingog.github.io/)**: Occasional writing, mostly algorithms.
 
 ## Contact
-For inquiries:
 
-[![Email](https://img.shields.io/badge/Email-gianqalingog@gmail.com-%23000000?style=for-the-badge&logoColor=white)](mailto:gianqalingog@gmail.com)
-
-For casual chats:
-
-[![Email](https://img.shields.io/badge/Email-me@naigtree.dev-%23000000?style=for-the-badge&logoColor=white)](mailto:me@naigtree.dev)
-
-![Discord](https://img.shields.io/badge/Discord-naigtree-%235865F2?style=for-the-badge&logo=Discord&logoColor=white)
+Email: gianqalingog@gmail.com | me@naigtree.dev
